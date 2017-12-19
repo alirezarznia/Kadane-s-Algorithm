@@ -1,2 +1,2 @@
-# Kadane-s-Algorithm-geeksforgeeks-
+# Kadane-s-Algorithm
 # Largest Sum Contiguous Subarray
